@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/microservice.sln.DotSettings.user
+/.vs/microservice/v15/Server/sqlite3
